@@ -37,3 +37,16 @@ components/Header/index.js
 ### Pages and API
 
 Both `pages/` and `api/` use file-system routing from Next.js and Vercel's serverless functions.
+
+## Tentative Enhancements
+
+- user authentication and roles
+- data pagination for scale
+- global data storage in api route for active containers
+- distribution center suggestion
+- clarity on FIFO ordering
+- display "Days since order creation" with dynamic coloring
+- analytics dashboard for order history/throughput
+- better mobile styling
+- PWA status for mobile installation
+- better SEO w/ manifest
