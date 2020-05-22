@@ -1,0 +1,5 @@
+{
+  "env": {
+    "JEDS_DB_TOKEN": "@jeds_db_token"
+  }
+}

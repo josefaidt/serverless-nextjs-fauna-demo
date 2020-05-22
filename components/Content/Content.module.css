@@ -1,0 +1,9 @@
+.content {
+  min-width: 50vw;
+  margin-top: 3rem;
+
+  display: grid;
+  grid-auto-flow: row;
+  grid-auto-rows: min-content;
+  grid-gap: 1.2rem;
+}

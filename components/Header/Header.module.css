@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.heading {
+  margin: 0;
+}
+
+.subtitle {
+  font-size: 60%;
+  font-weight: normal;
+  font-style: italic;
+  color: slategrey;
+}
