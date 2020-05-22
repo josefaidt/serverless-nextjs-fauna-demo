@@ -2,6 +2,12 @@
 
 A serverless Next.js React application using FaunaDB and CSS Modules, deployed to Vercel.
 
+[View Deployment](https://jeds-supply-co.now.sh/)
+
+## Environment
+
+An API key to Fauna is required, see `.env.sample`
+
 ## API
 
 Using Vercel's serverless functions, order data can be retrieved by
