@@ -20,6 +20,8 @@ GET /api/orders
 
 This method of styling is an alternative to my usual styling via styled-components, however after using Svelte I've come to enjoy custom classes on each HTML tag that needs styled. Although global styles may be a hinderance, I find this method to be explicit and relatively easy to understand.
 
+`global.css` is the default stylesheet that comes with gatsby-starter-default. I've come to enjoy the defaults provided to bulid on top of.
+
 ## Directory Structure
 
 ### Components

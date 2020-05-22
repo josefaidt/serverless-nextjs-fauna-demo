@@ -24,7 +24,6 @@ export default function HomePage() {
             <span className={subtitle}>Order Summary</span>
           </Header>
           <Content>
-            {/* ORDER FIFO */}
             {error ? <p>Oops, something went wrong: {error.message}</p> : null}
             {orders?.length ? (
               <>

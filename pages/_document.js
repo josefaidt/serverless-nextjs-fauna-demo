@@ -24,10 +24,10 @@ class MyDocument extends Document {
           <meta property="twitter:title" content={site.name}></meta>
           <meta property="og:description" content={site.description}></meta>
           <meta property="twitter:description" content={site.description}></meta>
-          <link rel="icon" href="/images/favicon.png" type="image/x-icon" />
-          <meta property="image" content="/images/favicon.png"></meta>
-          <meta property="og:image" content="/images/favicon.png"></meta>
-          <meta property="twitter:image" content="/images/favicon.png"></meta>
+          {/* <link rel="icon" href="/images/favicon.png" type="image/x-icon" /> */}
+          {/* <meta property="image" content="/images/favicon.png"></meta> */}
+          {/* <meta property="og:image" content="/images/favicon.png"></meta> */}
+          {/* <meta property="twitter:image" content="/images/favicon.png"></meta> */}
           <link
             href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap"
             rel="stylesheet"

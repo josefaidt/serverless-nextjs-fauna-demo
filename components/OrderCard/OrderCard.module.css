@@ -42,15 +42,15 @@
 }
 
 .statusProcessing {
-  background-color: royalblue;
+  background-color: var(--theme-info, royalblue);
 }
 
 .statusCancelled {
-  background-color: red;
+  background-color: var(--theme-warning, red);
 }
 
 .statusShipped {
-  background-color: forestgreen;
+  background-color: var(--theme-success, forestgreen);
 }
 
 /* FOR AND ADDRESS */
